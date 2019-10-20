@@ -1,0 +1,15 @@
+.container-fluid{
+	background: #E3E2E9;
+	
+}
+
+
+.item{
+	background: #000;
+	color: #fff;
+	min-height: 100px;
+	text-align: center;
+	line-height: 100px;
+	margin: 15px 0px;
+}
+
